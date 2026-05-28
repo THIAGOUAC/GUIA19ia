@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "372329092725",
+    "project_id": "artesanias-andinas",
+    "storage_bucket": "artesanias-andinas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372329092725:android:0a81058d93f6b858810a3c",
+        "android_client_info": {
+          "package_name": "com.example.artesanias_andinas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372329092725-9leue4k1e9prmfnki33u92eorav1q23a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.artesanias_andinas",
+            "certificate_hash": "59a7f862de469102f90320b4f0f79d37f0d234d9"
+          }
+        },
+        {
+          "client_id": "372329092725-tam11cgjbpa4g3t8j094jm67d0ktsvl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3ca3dDn6Kf9Jo_jVlid0k-1gaA0WQxeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372329092725-tam11cgjbpa4g3t8j094jm67d0ktsvl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

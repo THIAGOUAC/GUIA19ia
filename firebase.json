@@ -1,0 +1,28 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "artesanias-andinas",
+          "appId": "1:372329092725:android:0a81058d93f6b858810a3c",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "artesanias-andinas",
+          "configurations": {
+            "android": "1:372329092725:android:0a81058d93f6b858810a3c",
+            "web": "1:372329092725:web:82bde15448bef71f810a3c"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "database": "(default)",
+    "location": "nam5",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
